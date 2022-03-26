@@ -14,3 +14,13 @@ http://mattkersley.com/responsive?google.com
 
 Once you've uploaded, you can navigate your website from within the iframes, and the others will update.
 This won't work for external sites however due to browser security restrictions.
+
+
+## Breakpoints used in project
+
+* 320px — 480px: Mobile devices
+* 481px — 768px: iPads, Tablets
+* 769px — 1024px: Small screens, laptops
+* 1025px — 1200px: Desktops, large screens
+
+index.html updated to use the breakpoints for mobile and tablets mentioned above.
